@@ -1,6 +1,6 @@
 <div align="center">
 
-# Factores Cruzados y Anidados — Diseños Experimentales II 🧪
+## Factores Cruzados y Anidados — Diseños Experimentales II 🧪
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-4C78B7?style=for-the-badge&logo=quarto&logoColor=white)
